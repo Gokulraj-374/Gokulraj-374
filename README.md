@@ -10,17 +10,21 @@
 
 ### About Me
 
-```javascript
-const gokulraj = {
-    name: "Gokulraj V",
-    location: "Rasipuram, Tamil Nadu, India",
-    degree: "MCA @ K.S. Rangasamy College of Technology",
-    role: "Full Stack Developer (MERN)",
-    stack: ["React.js", "Node.js", "Express.js", "MongoDB", "JavaScript"],
-    currentlyLearning: ["GraphQL", "System Design", "AI-Powered Development"],
-    funFact: "I turned a college internship into 2 live client websites",
-    motto: () => "Build scalable. Build simple. Keep learning."
-};
+`Gokulraj V
+
+📍 Rasipuram, Tamil Nadu, India
+
+🎓 MCA Student at K.S. Rangasamy College of Technology
+
+💻 Full Stack Developer (MERN)
+
+Tech Stack: React.js, Node.js, Express.js, MongoDB, JavaScript
+
+Currently Learning: GraphQL, System Design, AI-Powered Development
+
+Fun Fact: Turned a college internship into two live client websites.
+
+Motto: Build scalable. Build simple. Keep learning.
 ```
 
 <br clear="right"/>
